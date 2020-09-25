@@ -8,6 +8,8 @@
         "contatcs": "Contatti"
     },
     "app": {
+        "clearPreferencesKo": "Non è stato possibile ripristinate le opzioni predefinite!",
+        "clearPreferencesOk": "Ripristinate le opzioni predefinite!",
         "createDbError": "Impossibile recuperare le impostazioni, saranno usate le impostazioni predefinite.",
         "exit": "Uscire",
         "name": "dates calculator",
@@ -74,6 +76,12 @@
             "autoNightModeHours": "(dalle 21:00 alle 7:00)",
             "placeholder": "tema",
             "stickyHeader": "header bloccata"
+        },
+        "reset": {
+            "confirm": "Ripristinare le opzioni predefinite?",
+            "description": "fare click sul seguente bottone per ripristinare le impostazioni.",
+            "resetButton": "ripristina",
+            "title": "predefiniti"
         }
     },
     "units": {
