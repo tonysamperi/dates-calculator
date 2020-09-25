@@ -1,0 +1,90 @@
+{
+    "_empty_": "",
+    "about": {
+        "title": "A proposito di questa app",
+        "body": "Grazie per aver scaricato questa app, che è stata fatta con ♥",
+        "bottomApp": "Per qualsiasi richiesta, sentiti libero di contattarmi tramite la pagina sul Google Play store. Il tuo feedback è molto apprezzato.",
+        "bottomWeb": "Per qualsiasi richiesta, sentiti libero di utilizzare i seguenti contatti. Il tuo feedback è molto apprezzato.",
+        "contatcs": "Contatti"
+    },
+    "app": {
+        "createDbError": "Impossibile recuperare le impostazioni, saranno usate le impostazioni predefinite.",
+        "exit": "Uscire",
+        "name": "dates calculator",
+        "footer": "sviluppata da Tony Samperi © 2020"
+    },
+    "calculator": {
+        "add": "aggiungi",
+        "addBlock": "aggiungi gruppo",
+        "clear": "pulisci",
+        "endDate": "data finale",
+        "errors": {
+            "timeRequired": "compila questo campo"
+        },
+        "includeTime": "scegli l'orario iniziale",
+        "operation": "operazione",
+        "options": "opzioni",
+        "pickHour": "scegli l'orario",
+        "result": "risultato",
+        "setInitial": "imposta come data iniziale",
+        "setToday": "vai a oggi",
+        "skipWeekends": "salta i weekend",
+        "skipWeekendsInfo": "Con questa opzione attiva, saranno saltati i weekend, per i blocchi in cui l'unità selezionata è \"giorni\"",
+        "startDate": "data iniziale",
+        "startOver": "da capo",
+        "submit": "calcola",
+        "subtract": "sottrai",
+        "startingFrom": "partendo da",
+        "theResultIs": "il risultato è",
+        "titleAdd": "somma",
+        "titleRange": "intervalli",
+        "totalIs": "la somma è",
+        "toAdd": "da sommare",
+        "totalDiff": "la differenza totale è di",
+        "units": "unità"
+    },
+    "generalDictionary": {
+        "and": "e",
+        "thereAre": "ci sono",
+        "thereIs": "c'è",
+        "between": "fra"
+    },
+    "select": "selezionare...",
+    "settingsPage": {
+        "title": "impostazioni",
+        "general": {
+            "title": "generali",
+            "language": {
+                "EN": "inglese (EN)",
+                "US": "inglese (US)",
+                "IT": "italiano"
+            },
+            "placeholder": "lingua"
+        },
+        "animations": {
+            "title": "animazioni",
+            "page": "transizione di pagina",
+            "elements": "animazione degli elementi"
+        },
+        "theme": {
+            "title": "tema",
+            "dark": "scuro",
+            "light": "chiaro",
+            "autoNightMode": "modalità notturna automatica",
+            "autoNightModeHours": "(dalle 21:00 alle 7:00)",
+            "placeholder": "tema",
+            "stickyHeader": "header bloccata"
+        }
+    },
+    "units": {
+        "day": "giorno",
+        "days": "giorni",
+        "hours": "ore",
+        "milliseconds": "millisecondi",
+        "minutes": "minuti",
+        "months": "mesi",
+        "seconds": "secondi",
+        "weeks": "settimane",
+        "years": "anni"
+    }
+}

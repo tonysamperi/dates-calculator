@@ -1,0 +1,90 @@
+{
+    "_empty_": "",
+    "about": {
+        "title": "about this app",
+        "body": "Thanks for downloading this app, which was made with ♥",
+        "bottomApp": "For any inquiries, feel free to contact me through the page on the Google Play store. Your feedback is very appreciated.",
+        "bottomWeb": "For any inquiries, feel free to contact me through one of the following contacts. Your feedback is very appreciated.",
+        "contacts": "Contacts"
+    },
+    "app": {
+        "createDbError": "Can't retrieve settings, using default options",
+        "exit": "Exit",
+        "name": "dates calculator",
+        "footer": "developed by Tony Samperi © 2020"
+    },
+    "calculator": {
+        "add": "add",
+        "addBlock": "add fieldset",
+        "clear": "clear",
+        "endDate": "end date",
+        "errors": {
+            "timeRequired": "fill this field"
+        },
+        "includeTime": "choose initial time",
+        "operation": "operation",
+        "options": "options",
+        "pickHour": "pick hour",
+        "result": "result",
+        "setInitial": "set as start date",
+        "setToday": "select today",
+        "skipWeekends": "skip weekends",
+        "skipWeekendsInfo": "When active, weekends will be skipped for blocks where the selected unit is \"days\"",
+        "startDate": "start date",
+        "startOver": "start over",
+        "submit": "compute",
+        "subtract": "subtract",
+        "startingFrom": "starting from",
+        "theResultIs": "the result is",
+        "titleAdd": "add",
+        "titleRange": "range",
+        "totalIs": "total is",
+        "toAdd": "to add",
+        "units": "units"
+    },
+    "generalDictionary": {
+        "and": "and",
+        "thereAre": "there are",
+        "thereIs": "there is",
+        "between": "between"
+    },
+    "select": "select...",
+    "settingsPage": {
+        "title": "settings",
+        "general": {
+            "title": "general",
+            "language": {
+                "EN": "english (EN)",
+                "US": "english (US)",
+                "IT": "italian"
+            },
+            "placeholder": "language"
+        },
+        "animations": {
+            "title": "animations",
+            "page": "page transitions",
+            "elements": "element animations"
+        },
+        "theme": {
+            "title": "theme",
+            "dark": "dark",
+            "light": "light",
+            "autoNightMode": "automatic night mode",
+            "autoNightModeHours": "(from 21:00 to 7:00)",
+            "placeholder": "theme",
+            "stickyHeader": "stiky header"
+        }
+    },
+    "units": {
+        "and": "and",
+        "day": "day",
+        "days": "days",
+        "hours": "hours",
+        "milliseconds": "milliseconds",
+        "minutes": "minutes",
+        "months": "months",
+        "seconds": "seconds",
+        "weeks": "weeks",
+        "years": "years"
+    }
+}
