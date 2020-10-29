@@ -1,11 +1,12 @@
 {
     "_empty_": "",
     "about": {
-        "title": "about this app",
+        "alsoAvailable": "is also available as Android app on",
         "body": "Thanks for downloading this app, which was made with ♥",
         "bottomApp": "For any inquiries, feel free to contact me through the page on the Google Play store. Your feedback is very appreciated.",
         "bottomWeb": "For any inquiries, feel free to contact me through one of the following contacts. Your feedback is very appreciated.",
-        "contacts": "Contacts"
+        "contacts": "Contacts",
+        "title": "about this app"
     },
     "app": {
         "clearPreferencesKo": "It wasn't possibile to restore default settings!",
@@ -14,6 +15,16 @@
         "exit": "Exit",
         "name": "dates calculator",
         "footer": "developed by Tony Samperi © 2020"
+    },
+    "birthday": {
+        "birthDayOfWeek": "birth day of week",
+        "dateOfBirth": "date of birth",
+        "intro": "here you can get some info regarding your age, birthdays and more.",
+        "nextBirthday": "next birthday",
+        "timeBeforeNextBirthday": "time before next birthday",
+        "title": "age calculator",
+        "yourAge": "your age",
+        "youWereBornOn": "you were born on"
     },
     "calculator": {
         "add": "add",
@@ -38,17 +49,26 @@
         "subtract": "subtract",
         "startingFrom": "starting from",
         "theResultIs": "the recsult is",
-        "titleAdd": "add",
-        "titleRange": "range",
         "totalIs": "total is",
         "toAdd": "to add",
         "units": "units"
     },
     "generalDictionary": {
         "and": "and",
+        "calculate": "calculate",
+        "check": "check",
+        "is": "is",
+        "isNot": "isn't",
         "thereAre": "there are",
         "thereIs": "there is",
         "between": "between"
+    },
+    "leapYear": {
+        "intro": "In the Gregorian calendar, each leap year has 366 days instead of 365, by extending February to 29 days rather than the common 28. These extra days occur in each year which is an integer multiple of 4 (except for years evenly divisible by 100, which are not leap years unless evenly divisible by 400).<br />In popular tradition, the leap year would be a harbinger of misfortune, according to the manner of saying \"Anno bisesto, anno funesto\", which mean \"Leap year, baleful year\"",
+        "leap": "leap",
+        "selectedYear": "year",
+        "title": "leap year",
+        "upcomingLeapYears": "upcoming leap years"
     },
     "select": "select...",
     "settingsPage": {
@@ -83,6 +103,13 @@
             "title": "defaults"
         }
     },
+    "tabs": {
+        "birthday": "birthday",
+        "add": "add",
+        "info": "info",
+        "leapYear": "leap year",
+        "range": "range"
+    },
     "units": {
         "and": "and",
         "day": "day",
@@ -92,7 +119,9 @@
         "minutes": "minutes",
         "months": "months",
         "seconds": "seconds",
+        "week": "week",
         "weeks": "weeks",
+        "year": "year",
         "years": "years"
     }
 }
